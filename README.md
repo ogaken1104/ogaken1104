@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Kenta Ogawa, a master's student at Kyoto University, studying in Physics-informed Machine Learning.
+My research focuses on exploring flow inference using Gaussian Processes. 
 
 <!--
 **ogaken1104/ogaken1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
