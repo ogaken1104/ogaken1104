@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Kenta Ogawa, a master's student at Kyoto University, studying in Physics-informed Machine Learning.
+I'm Kenta Ogawa, a master student at Kyoto University, studying in Physics-informed Machine Learning.
 My research focuses on exploring flow inference using Gaussian Processes. 
 
 <!--
